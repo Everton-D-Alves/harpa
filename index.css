@@ -32,6 +32,10 @@ body {
   color: white;
   text-decoration: none;
 }
+#div a:hover {
+  color: yellow;
+  text-decoration: underline;
+}
 
 a {
   color: black;
@@ -47,6 +51,14 @@ a#voltar {
   color: black;
   font-size: 14pt;
   text-align: justify;
+}
+
+h3 {
+  margin-top: 0px;
+}
+
+h4 {
+  margin-bottom: -10px;
 }
 
 /*# sourceMappingURL=index.css.map */
