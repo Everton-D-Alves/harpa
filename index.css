@@ -46,6 +46,10 @@ a#voltar {
   color: white;
   padding: 10px;
 }
+a#voltar:hover {
+  color: yellow;
+  text-decoration: underline;
+}
 
 #p {
   color: black;
