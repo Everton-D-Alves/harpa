@@ -45,18 +45,19 @@ a#voltar {
   background-color: silver;
   color: gray;
   border: none;
-  border-right: gray 2px solid;
-  border-bottom: gray 2px solid;
+  border-right: gray 4px solid;
+  border-bottom: gray 4px solid;
   padding: 10px;
 }
 a#voltar:hover {
+  color: white;
   text-decoration: underline;
 }
 a#voltar:active {
   background-color: gray;
   color: silver;
-  border-top: black 2px solid;
-  border-left: black 2px solid;
+  border-top: black 4px solid;
+  border-left: black 4px solid;
 }
 
 #p {
