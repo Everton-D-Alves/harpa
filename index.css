@@ -42,14 +42,21 @@ a {
   text-decoration: none;
 }
 a#voltar {
-  background-color: brown;
-  color: white;
+  background-color: silver;
+  color: gray;
+  border: none;
+  border-right: gray 2px solid;
+  border-bottom: gray 2px solid;
   padding: 10px;
 }
 a#voltar:hover {
-  background-color: green;
-  color: yellow;
   text-decoration: underline;
+}
+a#voltar:active {
+  background-color: gray;
+  color: silver;
+  border-top: black 2px solid;
+  border-left: black 2px solid;
 }
 
 #p {
