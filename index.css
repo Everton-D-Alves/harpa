@@ -58,6 +58,7 @@ a#voltar:active {
   color: silver;
   border-top: black 4px solid;
   border-left: black 4px solid;
+  text-decoration: none;
 }
 
 #p {
